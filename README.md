@@ -21,7 +21,7 @@ Coherence in a movement is about having a `systematized`, unified vision or goal
 
 # Pouvoir, empowerment, manifestation, culture
 
-Beads worn around the waist by young girls hold significant cultural, social, and aesthetic value in various African cultures. These beads, often referred to as "waist beads," serve multiple purposes and carry deep meanings.
+Beads worn around the waist by young girls hold significant cultural, social, and aesthetic value in various [African cultures](https://www.youtube.com/watch?v=pRERgcQe-fQ). These beads, often referred to as "waist beads," serve multiple purposes and carry deep meanings.
 
 ### Cultural Significance
 
