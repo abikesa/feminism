@@ -1,4 +1,4 @@
-![](https://abikesa.github.io/zarathustra/python.png)
+![](feminism.png)
                                   
                                   1. Root
                                          \
