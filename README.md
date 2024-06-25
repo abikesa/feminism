@@ -11,6 +11,6 @@
 
 
 ### Aesthetics 1, 2, 3
-### Wisdom 4
+### Wisdom [4](https://abikesa.github.io/feminist/)
 ### Morality 5, 6
 
