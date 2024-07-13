@@ -1,16 +1,7 @@
-> A Solitary pursuit ..[.](http://archives.news.yale.edu/v29.n1/story4.html) Do not attempt to improve your neighbor or your neighborhood by what or how you read
+<a href="https://book.the-turing-way.org/welcome.html"><img src="https://static.dw.com/image/62054308_1004.webp" width="80%" align="Right" /></a>
 
-![](feminism.png)
+# _Kinder review of Tyler Perry_
 
-                      1. Digital Information
-                                            \
-              2. Azure's Computing Power -> 4. Public Square or Discussion Forum -> 5. Human Expertise & Leadership e.g. Sam Altman -> 6. Dominance of AAA-MM-N
-                                            /
-                                            3. Nvidia-designed GPUs
-
-
-
-### Aesthetics 1, 2, 3
-### Wisdom [4](https://abikesa.github.io/feminist/)
-### Morality 5, 6
-
+```sh
+mv [a-zA-Z]* 4-dionysian/
+```
