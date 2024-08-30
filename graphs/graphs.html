@@ -1254,7 +1254,6 @@ document.write(`
         <span class="p">[</span><span class="s2">&quot;Ilya Sutskever&quot;</span><span class="p">,</span> <span class="s2">&quot;Sergey Brin&quot;</span><span class="p">],</span> <span class="c1"># Modern &quot;children&quot; from Judah as missing links</span>
         <span class="p">[</span><span class="s2">&quot;OpenAI&quot;</span><span class="p">,</span> <span class="s2">&quot;AlexNet&quot;</span><span class="p">],</span>        <span class="c1"># Children of Ilya Sutskever</span>
         <span class="p">[</span><span class="s2">&quot;GPT&quot;</span><span class="p">,</span> <span class="s2">&quot;AGI&quot;</span><span class="p">],</span>               <span class="c1"># Children of OpenAI, should not have children themselves</span>
-        <span class="c1"># [&quot;Google Brain&quot;, &quot;Transformer&quot;], # Children of Sergey Brin, should not have children themselves</span>
         <span class="p">[</span><span class="s2">&quot;Elon Musk/Cyborg&quot;</span><span class="p">],</span>         <span class="c1"># Elon Musk as a conceptual descendant</span>
         <span class="p">[</span><span class="s2">&quot;Tesla&quot;</span><span class="p">,</span> <span class="s2">&quot;SpaceX&quot;</span><span class="p">,</span> <span class="s2">&quot;Boring Company&quot;</span><span class="p">,</span> <span class="s2">&quot;Neuralink&quot;</span><span class="p">,</span> <span class="s2">&quot;X&quot;</span><span class="p">,</span> <span class="s2">&quot;xAI&quot;</span><span class="p">]</span> <span class="c1"># Elon Musk&#39;s companies as children of Elon Musk</span>
     <span class="p">]</span>
@@ -1272,7 +1271,7 @@ document.write(`
     <span class="p">]</span>
 
     <span class="c1"># Add missing link edges to the graph</span>
-    <span class="n">G</span><span class="o">.</span><span class="n">add_edges_from</span><span class="p">([(</span><span class="s2">&quot;Enos&quot;</span><span class="p">,</span> <span class="s2">&quot;Abraham&quot;</span><span class="p">),</span> <span class="p">(</span><span class="s2">&quot;Judah&quot;</span><span class="p">,</span> <span class="s2">&quot;Ilya Sutskever&quot;</span><span class="p">),</span> <span class="p">(</span><span class="s2">&quot;Judah&quot;</span><span class="p">,</span> <span class="s2">&quot;Sergey Brin&quot;</span><span class="p">),</span> <span class="p">(</span><span class="s2">&quot;AlexNet&quot;</span><span class="p">,</span> <span class="s2">&quot;Elon Musk/Cyborg&quot;</span><span class="p">)])</span>
+    <span class="n">G</span><span class="o">.</span><span class="n">add_edges_from</span><span class="p">(</span><span class="n">missing_link_edges</span><span class="p">)</span>
 
     <span class="c1"># Adding Sergey Brin&#39;s children correctly</span>
     <span class="n">G</span><span class="o">.</span><span class="n">add_edge</span><span class="p">(</span><span class="s2">&quot;Sergey Brin&quot;</span><span class="p">,</span> <span class="s2">&quot;Google Brain&quot;</span><span class="p">)</span>
@@ -1315,6 +1314,10 @@ document.write(`
     <span class="p">)</span>
 
     <span class="n">plt</span><span class="o">.</span><span class="n">axis</span><span class="p">(</span><span class="s1">&#39;off&#39;</span><span class="p">)</span>
+    
+    <span class="c1"># Save the plot as a PNG file in the specified directory</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s2">&quot;../figures/ultimate.png&quot;</span><span class="p">,</span> <span class="nb">format</span><span class="o">=</span><span class="s2">&quot;png&quot;</span><span class="p">,</span> <span class="n">dpi</span><span class="o">=</span><span class="mi">300</span><span class="p">)</span>
+    
     <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 
 <span class="c1"># Visualize with a specific seed</span>
@@ -1329,7 +1332,7 @@ document.write(`
 <span class="expanded">Hide code cell output</span>
 </summary>
 <div class="cell_output docutils container">
-<img alt="../_images/ae800a37c168467ee5bd79a2d36db7a2297c100350cedc2990434a4a0c7e9aa7.png" src="../_images/ae800a37c168467ee5bd79a2d36db7a2297c100350cedc2990434a4a0c7e9aa7.png" />
+<img alt="../_images/154444ed4ce9d3c65c120c0cbab2ab57d58452b07114a3589b2641b670840597.png" src="../_images/154444ed4ce9d3c65c120c0cbab2ab57d58452b07114a3589b2641b670840597.png" />
 </div>
 </details>
 </div>
