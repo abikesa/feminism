@@ -1,6 +1,6 @@
 (act1-esrd)=
 # ESRD
-## 
+## Refining inferences
 Please note the importance of “curate, interpret, encode” in modern discourse. This phrase is a powerful triad that beautifully captures the essence of what art accomplishes. This sequence encapsulates the artistic `process` and underscores art’s role in laying the foundation for scientific inquiry and moral reasoning. 
 
 "Curate, interpret, encode" — a concise mantra that captures the transformative journey from raw experience to meaningful understanding, guiding both art and science in their pursuits.
