@@ -45,7 +45,7 @@
 width: 1
 height: 1
 ---
-_Fruitful exchange with Duncan_. He shared Azawi's "Masavu" & was perplexed at how much it taken a hold of him. On listening to it, I immediately recognized the enchanting chord progression & dynamics of Chi-Lites "Have you seen her". When you go beneath the superficial difference between these two songs, you'll unconver their essence: the archetypal chord progression `I-iii-IV (or vi)-V`, absence of the strong dissonances in the more tragic `ii7b5-V7-i` arc. They are both romantic through & through in the emotional arcs & subject matter: somethin' 'bout a girl
+_Fruitful exchange with Duncan_. He shared Azawi's "Masavu" & was perplexed at how much it taken a hold of him. On listening to it, I immediately recognized the enchanting chord progression & dynamics of Chi-Lites "Have you seen her". When you go beneath the superficial difference between these two songs, you'll unconver their essence: the archetypal chord progression `ii-V7-I` & emotional arc "something about a girl"
 ```
 
 (abc-landing)=
