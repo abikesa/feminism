@@ -12,7 +12,8 @@ Let's unambiguously linke this mantra to the three uses & abuses of history: rev
 *In Bach, God threw us a bone to chew on, we few, we happy few! {cite}`shakespeare_st_crispins_day_speech`*
 ```
 
-The phrase "throw a bone to chew on" typic`ally means giving someone something to occupy their attention or to think about. It's often used metaphorically, derived from the literal action of giving a dog a bone to keep it busy and satisfied. This phrase can be used in various contexts:
+## Other notes
+The phrase "throw a bone to chew on" typically means giving someone something to occupy their attention or to think about. It's often used metaphorically, derived from the literal action of giving a dog a bone to keep it busy and satisfied. This phrase can be used in various contexts:
 
 1. **Distraction or appeasement**: In politics or negotiations, it might mean offering a small concession or minor issue to distract from the more significant matters at hand. For example, a politician might announce a minor policy change to appease the public while avoiding more substantial reforms.
 
