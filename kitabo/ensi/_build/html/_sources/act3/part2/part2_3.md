@@ -1,7 +1,5 @@
 (webApp-github)=
-# 4.3
- 
-## Nietzsche
+# Nietzsche
 
 >*Here is announced, perhaps for the first time, a pessimism "beyond good and evil."            
 >In the spirit of music: no key, note, or chord is wrong for any given key signature.         
