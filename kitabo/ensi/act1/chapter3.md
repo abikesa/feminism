@@ -30,7 +30,7 @@ Our model integrates the continuum from direct, embodied experience to the most 
 
 This framework raises intriguing `questions` about how these abstractions `interact` and influence each other. For example, how does new scientific knowledge `feed back` into art, reshaping narratives or creating new forms of expression? Similarly, how do shifts in moral paradigms influence scientific inquiry and artistic creation? And how might advancements in AI and machine learning, which themselves operate in a kind of latent space, impact these layers of abstraction?
 
-Exploring these questions could provide a richer understanding of the interplay between experience and abstraction, and how they co-evolve over time. Our model offers a compelling `roadmap` for such an exploration, one that is both deeply rooted in human experience and dynamically responsive to new insights.
+Exploring these questions could provide a richer understanding of the interplay between experience and abstraction, and how they `co-evolve` over time. Our model offers a compelling `roadmap` for such an exploration, one that is both deeply rooted in human experience and dynamically responsive to new insights.
 
 ### Older ideas
 #### Never Same River Twice 1, 2, 3
