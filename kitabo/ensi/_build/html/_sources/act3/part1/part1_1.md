@@ -24,7 +24,13 @@
                           3. Artifacts-Rituals 
 ```
 
-> _Fig. 1 Tribes decode heritage in unique ways._ But the artists from these different heritages also might emerge with very different ways to encode what their ancestors have seen, remembered, and felt. Some with levity, others with gravity.
+```{figure} ../figures/blanche.*
+---
+width: 1
+height: 1
+---
+_Tribes decode heritage in unique ways._ But the artists from these different heritages also might emerge with very different ways to encode what their ancestors have seen, remembered, and felt. Some with levity, others with gravity.
+```
 
 
 ### Parametrize 1, 2, 3
@@ -99,7 +105,13 @@ Choosing between re-weighting and re-parametrizing depends on the specific chall
                            3. Mean
 ```
 
-> _Fig. 2 [Black Christian Women](https://www.thedailybeast.com/obsessed/divorce-in-the-black-review-tyler-perrys-worst-movie-yet)._ Tyler Perry is a fascinating case study. Despite constant critical dismissal, he’s one of the most successful filmmakers in America, consistently working with mid-range budgets but managing to gross more than $1 billion. His fan base is one Hollywood routinely ignores—chiefly Black, Christian women—and Perry makes his films with his proud Christian values at the forefront. 
+```{figure} ../figures/blanche.*
+---
+width: 1
+height: 1
+---
+_[Black Christian Women](https://www.thedailybeast.com/obsessed/divorce-in-the-black-review-tyler-perrys-worst-movie-yet)._ Tyler Perry is a fascinating case study. Despite constant critical dismissal, he’s one of the most successful filmmakers in America, consistently working with mid-range budgets but managing to gross more than $1 billion. His fan base is one Hollywood routinely ignores—chiefly Black, Christian women—and Perry makes his films with his proud Christian values at the forefront. Tyler Perry uses history as source material for `deliverance`, what is hoped-for by those who have suffered in kind of torture he has selected from the past. What critics lament is that Tyler Perry's success provides a reinforcing approach that completely lacks the need for `reverence`, piety, `inference` or "interpreting history by love". He uses christianity and its redemptive message, but also has very pornographic content in other works, which are inconsistent with Christian morality. He didn't attend art school and doesn't seem to hold any forebears with any reverence, since he'd done good pretty well without their help. And so antiquary, the monumental, and critical are not equally used by him. He's mostly critical, and very selectively so. He is an abuser of history. {cite}`nietzsche_thoughts_2024`
+```
 
 You've raised an excellent point. When generating a predictive equation for specific case scenarios, the focus indeed shifts from population-level inference to individual predictions. Here's why re-weighting might be less suitable in this context and why re-parametrization or other model adjustments might be more appropriate:
 
@@ -141,8 +153,14 @@ Re-weighting is a valuable technique for addressing sampling biases and ensuring
                                       3. Gut-Robustness
 ```
 
-> _Fig. 3 [Optimism firmly rooted within `Good & Evil`](https://www.thedailybeast.com/obsessed/divorce-in-the-black-review-tyler-perrys-worst-movie-yet)._ Space for nuance is desperately needed. That’s never been Perry’s specialty—his most egregious movie, Temptations: Confessions of a Marriage Counselor, punished its main character with HIV for having an affair. But Divorce in the Black is practically crying out for it. Dallas is a thinly sketched cartoon villain, a constantly raised voice that spits venom. Ava, meanwhile, is a benevolent angel transported directly from heaven itself. Perry’s script never allows an opportunity for its characters to be anything but symbols of good and evil, and that’s all Ava and Dallas end up being. Perry’s moral code is frustratingly rigid: If someone does bad things, they must be a bad person. There’s no room for negotiation or nuance. It’s not only holier-than-thou—it’s also boring writing. 
 
+```{figure} ../figures/blanche.*
+---
+width: 1
+height: 1
+---
+_[Optimism firmly rooted within `Good & Evil`](https://www.thedailybeast.com/obsessed/divorce-in-the-black-review-tyler-perrys-worst-movie-yet)._ Space for nuance is desperately needed. That’s never been Perry’s specialty—his most egregious movie, Temptations: Confessions of a Marriage Counselor, punished its main character with HIV for having an affair. But Divorce in the Black is practically crying out for it. Dallas is a thinly sketched cartoon villain, a constantly raised voice that spits venom. Ava, meanwhile, is a benevolent angel transported directly from heaven itself. Perry’s script never allows an opportunity for its characters to be anything but symbols of good and evil, and that’s all Ava and Dallas end up being. Perry’s moral code is frustratingly rigid: If someone does bad things, they must be a bad person. There’s no room for negotiation or nuance. It’s not only holier-than-thou—it’s also boring writing. 
+```
 
 The Coen Brothers have a distinctive style that attracts a diverse and dedicated fan base. However, certain demographic trends can be discerned within their audience. Here's a speculative profile:
 
