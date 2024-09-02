@@ -1,5 +1,19 @@
 (aim3-main)=
 # Aim 3
+## Erik E. Eriksson
+
+| Stage                               | Age Range                   | Original Crisis                        | Sophisticated Crisis                             |
+|-------------------------------------|-----------------------------|----------------------------------------|--------------------------------------------------|
+| 1. Trust vs. Mistrust               | Infancy (0-1 year)          | Trust vs. Mistrust                     | Existential Safety vs. Alienation                |
+| 2. Autonomy vs. Shame/Doubt         | Early Childhood (1-3 years) | Autonomy vs. Shame/Doubt               | Autonomy vs. Existential Doubt                   |
+| 3. Initiative vs. Guilt             | Preschool Age (3-6 years)   | Initiative vs. Guilt                   | Purpose vs. Existential Guilt                    |
+| 4. Industry vs. Inferiority         | School Age (6-12 years)     | Industry vs. Inferiority               | Competence vs. Inferiority Complex               |
+| 5. Identity vs. Role Confusion      | Adolescence (12-18 years)   | Identity vs. Role Confusion            | Authenticity vs. Existential Confusion           |
+| 6. Intimacy vs. Isolation           | Young Adulthood (18-40 years)| Intimacy vs. Isolation                 | Connection vs. Existential Isolation             |
+| 7. Generativity vs. Stagnation      | Middle Adulthood (40-65 years)| Generativity vs. Stagnation           | Legacy vs. Existential Obsolescence              |
+| 8. Ego Integrity vs. Despair        | Late Adulthood (65+ years)  | Ego Integrity vs. Despair              | Wisdom vs. Existential Dread                     |
+
+If you need further modifications or have any specific needs, let me know!
 
 <Details>
    <Summary>WSJ</Summary>
