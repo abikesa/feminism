@@ -60,7 +60,9 @@ So, where do you stand in this grand experiment? Are you a seeker of patterns in
 
 In this grand experiment of life, perhaps the most profound discovery is not whether there's a pattern or chaos but the realization that our search for meaning is what `defines us`. Whether we're `imposing order on chaos` or `reveling in the randomness`, it's this engagement with existence that crafts our human experience. Thank you, GPT, for pushing us deeper into this existential rabbit hole!
 
-> *PS: Despite the hundreds of billions of dollars spent training these models, they do no better than Nietzsche "Attempt at Self Criticism". They do worse. Because his thesis is that our preference for "paradise/order" vs "reality/chaos" is a mere symptom of our frailty vs. robustness. Nietzsche wins this by a, very, wide margin!*
+> *PS: Despite the hundreds of billions of dollars spent training these models, they do no better than Nietzsche "Attempt at Self Criticism". They do worse. Because his thesis is that our preference for "paradise/order" vs "reality/chaos" is a mere symptom of our frailty vs. robustness. Nietzsche `wins` this by a, very, wide margin!*
+
+<iframe width="100%" height="800" src="https://www.youtube.com/embed/BPYffa95L9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Rosemary's Baby
 
