@@ -62,7 +62,7 @@ In this grand experiment of life, perhaps the most profound discovery is not whe
 
 > *PS: Despite the hundreds of billions of dollars spent training these models, they do no better than Nietzsche's "Attempt at Self Criticism". They do worse. Because his thesis, infinitely more precise (I can say in one sentense what other's say, can't say, in a book), is that our preference for "paradise/order" vs "reality/chaos" is a mere symptom of our frailty vs. robustness. Nietzsche `wins` this by a, very, wide margin! Brevity is the soul of wit*
 
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/BPYffa95L9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/BPYffa95L9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Rosemary's Baby
 
@@ -77,8 +77,8 @@ In this grand experiment of life, perhaps the most profound discovery is not whe
 
 ```{figure} https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/12/17/rosemarys-baby-4.jpg?width=1200
 ---
-height: 50%
-width: 50%
+height: 100%
+width: 100%
 name: open-access-citations
 alt: A plot 
 ---
