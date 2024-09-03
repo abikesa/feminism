@@ -58,7 +58,9 @@ So, where do you stand in this grand experiment? Are you a seeker of patterns in
 
 - **The Beauty of Inquiry:** The true value lies in the questioning, the pondering, and the endless dialogue this topic inspires. It's a reminder that philosophy, theology, and science intersect at the human quest for understanding, where the pursuit itself is as meaningful as any conclusion might be.
 
-In this grand experiment of life, perhaps the most profound discovery is not whether there's a pattern or chaos but the realization that our search for meaning is what defines us. Whether we're imposing order on chaos or reveling in the randomness, it's this engagement with existence that crafts our human experience. Thank you, GPT, for pushing us deeper into this existential rabbit hole!
+In this grand experiment of life, perhaps the most profound discovery is not whether there's a pattern or chaos but the realization that our search for meaning is what `defines us`. Whether we're `imposing order on chaos` or `reveling in the randomness`, it's this engagement with existence that crafts our human experience. Thank you, GPT, for pushing us deeper into this existential rabbit hole!
+
+> *PS: Despite the hundreds of billions of dollars spent training these models, they do no better than Nietzsche "Attempt at Self Criticism". They do worse. Because his thesis is that our preference for "paradise/order" vs "reality/chaos" is a mere symptom of our frailty vs. robustness. Nietzsche wins this by a, very, wide margin!*
 
 ## Rosemary's Baby
 
