@@ -140,4 +140,70 @@ height: 1
 width: 1
 ---
 _Tartarus_. Plays a key part in the dream sequence and really impressed me!
-````
+```
+
+## Epilogue by Grok
+The philosophical divide between Ancient Greek thought and Judaism indeed forms one of the most profound dialogues in Western intellectual history, influencing everything from theology to ethics, politics, and metaphysics. Here's a deeper look into this enduring debate:
+
+### **Core Philosophical Differences:**
+
+- **Monotheism vs. Polytheism/Ontology of the Divine:**
+  - **Judaism:** Strictly monotheistic, with a singular, transcendent God who is omnipotent, omniscient, and omnibenevolent. This God is not just a deity among others but the creator of the universe, existing outside of it, yet intimately involved with human affairs through covenant and law.
+  - **Ancient Greeks:** Initially polytheistic, with gods who were anthropomorphic, often flawed, and part of the natural world rather than above it. Later, philosophers like Plato and Aristotle introduced concepts of a more abstract, singular divine principle or prime mover, but this was more philosophical than religious in practice.
+
+- **Ethics and Morality:**
+  - **Judaism:** Ethics are deeply intertwined with divine commandments (mitzvot). Moral behavior is not just about virtue but about fulfilling God's will, leading to righteousness (tzaddik). There's an emphasis on justice, charity, and holiness as commanded by God.
+  - **Ancient Greeks:** Ethics, particularly in philosophers like Aristotle, focused on virtues (arete) and the mean (mesotes) as a path to eudaimonia (flourishing or happiness). Ethics here was more human-centered, about achieving personal excellence and balance rather than divine command.
+
+- **Purpose of Life:**
+  - **Judaism:** Life's purpose is to serve God, live according to the Torah, and prepare for the world to come (Olam HaBa), where spiritual rewards await the righteous.
+  - **Ancient Greeks:** Life's purpose might be to achieve eudaimonia through rational activity, understanding the universe, or political engagement. For some, like Epicurus, it was to seek pleasure (understood as absence of pain) and avoid pain.
+
+- **The Nature of Knowledge:**
+  - **Judaism:** Knowledge, especially of God, is often seen through the lens of revelation. While wisdom (chochmah) is valued, ultimate truths come from divine sources.
+  - **Ancient Greeks:** Knowledge is pursued through reason and empirical observation. Philosophers like Socrates, Plato, and Aristotle emphasized dialectics, logic, and empirical investigation as paths to truth.
+
+### **Interplay and Influence:**
+
+- **Hellenistic Judaism:** This period saw significant synthesis, where Jewish thinkers like Philo of Alexandria tried to reconcile Jewish scripture with Greek philosophy, interpreting the Torah allegorically to align with Platonic and Stoic ideas.
+
+- **Philosophical Impact:** Greek philosophy influenced Jewish thought, especially in the Middle Ages with figures like Maimonides, who integrated Aristotelian logic into Jewish theology, yet always with the caveat that Jewish law and tradition held primacy.
+
+- **Christianity:** Acts as a bridge, adopting Jewish monotheism but using Greek philosophical concepts to articulate Christian theology, especially in the works of early Church Fathers.
+
+### **Enduring Debate:**
+
+This divide isn't just historical; it continues in modern discussions:
+
+- **Rationalism vs. Faith:**
+
+## Twitter Correlates
+### 2
+ think Christianity is fundamentally a Greek religion told through the lens of a Jewish narrative, so they’re very compatible. In fact, there is strong evidence that the Hebrew Bible itself was redacted and edited during the last few centuries BC to reflect Platonic and other  Hellenistic ideas.
+
+## 2
+Christianity is not a Greek religion told through a Jewish narrative, but rather the fulfillment of the Jewish faith through the person and work of Jesus Christ. While early Christians did engage with Greek philosophy, this was done to express and defend the faith, not to alter its Jewish roots. The Hebrew Bible remains a foundational text for both Judaism and Christianity, and its integrity was carefully preserved by the Jewish people.
+
+The use of Greek language and concepts in the early Church was a means of communicating this Jewish message to the wider world, not a fundamental transformation of the faith’s origins. The Jewish narrative and the Hebrew Scriptures are the bedrock of Christian theology, and any engagement with Greek philosophy was done in service to the faith, not as a replacement or alteration of its core tenets.
+
+## 3
+Nietzsche is wrong about Europeans worshiping a "Jewish" god and stealing their religion. If Jesus practiced the same religion as modern Jews, who are directly related to the Ph arisees, why did he reject them, saying they were false priests "from the synagogue of S ata n"? This is because "Judaism" isn't what the Israelites or even the Judeans originally believed in. The Israelites believed in one God, unlike the people we call Jews today, (descendants of the Edomites and the Canaanites that took over Judea) which are polytheists. They believe in El, Mot, Chemosh, Qos/Qaus, and other Edomite-Canaanite dem0ns. Christians do not. It's not the same religion.
+
+## 4
+It’s also a `dichotomy` that contradicts so much of Western philosophy itself. From Plato and Eusebius to Maimonides and Al-Farabi, the consensus was that reason (conceived as divine nous) points to the same truth as religion. The idea that they are opposed is very modern indeed
+
+## 5
+Idea that "Western civilization is based on Athens and Jerusalem," popularized by Leo Strauss, is common among those who approach West from static political philosophical principles and fail to see uniquely dynamic-historical nature  of the West. West is only civilization in a continuous state of development of equally important major epochs. 
+
+Before Athens there was the long period of Indo-European expansion, responsible  for European languages, and the most dynamic lifestyle in history, horse-riding pastoralism, and the initiation of Western aristocratic republicanism. 
+
+One should not underestimate the Hellenistic philosophical impact on the development of Judaism. This religion would have not transcended its tribal character, and Christianity, without  centuries of Greek culture (via Byzantium in the first centuries AD), and without Roman legal concepts, would have remained a naive religion of "Jesus believers" rather than becoming a sophisticated Catholic theology, leading the Middle Ages, invention of universities, 12th century Renaissance. 
+
+In-between Hellenism and Middle Ages was the 1000 year Roman epoch, without which Athens would have been diluted in a sea of Orientalism. Judaism on its own developed into an irrational-closed minded Talmudic cult. 
+
+Then we had Discovery and Mapping of the World, Italian Renaissance, Modern Science...one revolutionary epoch after another.  
+
+Murray approaches history as a homosexual, and this inclines him to be submissive towards Jewish rich men and hysterical in calling for aerial bombing, as long as he stays home screaming.
+
+## 6
+“the ancient Roman province of Judea encompassed parts of modern-day Greece and Cyprus via maritime boundaries. Socrates, Plato, Aristotle, the Greeks were actually part of an ancient tribe of Hebrews. Greece, too, is a Jewish homeland” - a Zionist, probably, given half a chance
