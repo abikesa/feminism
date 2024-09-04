@@ -178,7 +178,7 @@ This divide isn't just historical; it continues in modern discussions:
 - **Rationalism vs. Faith:**
 
 ## Twitter Correlates
-### 2
+## 1
  think Christianity is fundamentally a Greek religion told through the lens of a Jewish narrative, so they’re very compatible. In fact, there is strong evidence that the Hebrew Bible itself was redacted and edited during the last few centuries BC to reflect Platonic and other  Hellenistic ideas.
 
 ## 2
