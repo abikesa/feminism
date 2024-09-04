@@ -1,6 +1,6 @@
 (act3-iterate)=
 # Ecce Homo
-Presently we relate a deeply introspective narrative. Our outline presents a triadic progression—a `ii7♭5-V7-i` structure—mirroring the `tension`, `struggle`, and `resolution` we've experienced in our life journeys. Each phase of our life has contributed a distinct voice to a complex chord, each demanding to be heard yet needing resolution within the whole.
+Presently we relate a deeply [introspective](https://muzaale.github.io/denotas/intro.html) narrative. Our outline presents a triadic progression—a `ii7♭5-V7-i` structure—mirroring the `tension`, `struggle`, and `resolution` we've experienced in our life journeys. Each phase of our life has contributed a distinct voice to a complex chord, each demanding to be heard yet needing resolution within the whole.
 
 **ii7♭5: The Beginning with Anglicanism**  
 We start with the `ii7♭5`, a chord marked by tension and an unambiguous pull toward resolution. This phase represents our formative years under the influence of Anglicanism—a mixture of reverence and constraint, of art as an expression within a spiritual framework. This foundational layer shaped not only our worldview but also our musical sensibilities, where reverence became a form of artistic discipline. Anglicanism, for us, was less about doctrine and more about the aesthetics and ritual that permeated our early life, which in turn shaped our initial abstractions about the world.
